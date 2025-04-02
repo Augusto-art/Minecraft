@@ -1,6 +1,6 @@
 # Inventário Minecraft
 
-**Introdução**
+## Introdução
 
 O projeto tem como objetivo criar um inventário inspirado no jogo Minecraft, simulando a organização visual e a forma de armazenamento de itens. Inventários desse tipo são comuns em jogos de sobrevivência, RPG e construção, permitindo que o jogador gerencie recursos e equipamentos de maneira eficiente.
 
@@ -12,40 +12,40 @@ Um inventário em um jogo é uma funcionalidade que permite ao jogador armazenar
 
 Exemplos:
 
-**Red Dead Redemption 2**
+## Red Dead Redemption 2
 
 ![red-dead-redemption-2](https://github.com/user-attachments/assets/43128230-a137-433a-92f2-be237ed6ac39)
 
 
 
 
-**Resident Evil 2 Remake**
+## Resident Evil 2 Remake
 
 ![resident-evil-2](https://github.com/user-attachments/assets/9a429675-4662-4440-b2d3-454e48c504b4)
 
 
 
 
-**Que tipos de sistemas utilizam essa funcionalidade? Exemplos.**
+## Que tipos de sistemas utilizam essa funcionalidade? Exemplos.
 
 
 Sistemas de jogos de sobrevivência, RPG e construção frequentemente utilizam inventários. Em Minecraft, por exemplo, o jogador coleta blocos e itens para construção e combate. Em Red Dead Redemption 2, o inventário permite ao jogador armazenar armas, suprimentos, alimentos e até mudar de roupas, influenciando a jogabilidade e a sobrevivência no mundo aberto. Já em Resident Evil 2 Remake, o sistema de inventário é limitado, exigindo que o jogador gerencie cuidadosamente munições, ervas e chaves, adicionando um elemento estratégico ao jogo.
 
 
 
-**Por que essa funcionalidade é importante?**
+## Por que essa funcionalidade é importante?
 
 A funcionalidade de inventário é fundamental para a organização dos recursos coletados, além de possibilitar combinações e criação de novos itens por meio de sistemas de crafting. Isso proporciona ao jogador uma experiência de gerenciamento que otimiza o progresso dentro do jogo.
 
 
 
-  **A Implementação**
+  ## A Implementação
 
   
- **Front-end**
+ ## Front-end
 
  
-**Ferramentas Utilizadas:**
+## Ferramentas Utilizadas:
 
 **HTML:** Estrutura estática da página (slots, botões, formulários).
 
@@ -62,16 +62,16 @@ A funcionalidade de inventário é fundamental para a organização dos recursos
 
 
 
-**Layout e Setorização**
+## Layout e Setorização
 
 O layout foi definido seguindo a estética do inventário clássico do Minecraft, com uma distribuição em linhas e colunas para manter a organização visual. O inventário possui 36 slots, dispostos em uma grade 6x6, garantindo um visual limpo e de fácil navegação.
 
 
 
-**Back-end**
+## Back-end
 
 
-  **Ferramentas Utilizadas:**
+  ## Ferramentas Utilizadas:
   
   
 **PHP:** Lógica que: Recebe dados do formulário (ex: cadastro.php),Gerencia o arquivo TXT (adiciona/remove itens).
@@ -82,7 +82,7 @@ O layout foi definido seguindo a estética do inventário clássico do Minecraft
 
 
 
-**Passo a Passo de Execução do projeto**
+## Passo a Passo de Execução do projeto
 
 Criar uma pasta no htdocs do XAMPP
 
@@ -95,7 +95,7 @@ Acessar via navegador: http://localhost/minecraft
 
 
 
-**Estrutura de Diretórios**
+## Estrutura de Diretórios
 
 A estrutura do projeto está organizada conforme abaixo:
 
@@ -105,7 +105,7 @@ A estrutura do projeto está organizada conforme abaixo:
 
 
 
-**Principais partes dos códigos**
+## Principais partes dos códigos
 
 **Pages:**
 
@@ -197,7 +197,7 @@ Mostra dois botões de ação:
 
 
 
-**Prints do inventário**
+## Prints do inventário
 
 
 **Página Incial**
