@@ -25,18 +25,26 @@ A funcionalidade de inventário é fundamental para a organização dos recursos
 
 
   **A Implementação**
+
   
  **Front-end**
+
  
 **Ferramentas Utilizadas:**
 
+
 HTML: Para a estruturação das páginas e organização dos elementos.
+
 
 Bootstrap: Para estilização e layout responsivo.
 
+
 PHP: Para criar aplicações web, como sites e lojas virtuais.
 
+
 VS Code: Editor utilizado no desenvolvimento por sua versatilidade e suporte a várias linguagens.
+
+
 
 
 
@@ -57,6 +65,7 @@ O layout foi definido seguindo a estética do inventário clássico do Minecraft
 **Arquivo de Texto (.txt):** Para armazenar as informações dos itens cadastrados.
 
 **VS Code:** Editor de código utilizado no desenvolvimento.
+
 
 
 
@@ -82,6 +91,8 @@ A estrutura do projeto está organizada conforme abaixo:
 ![Diretorio](https://github.com/user-attachments/assets/a78a8307-756e-4b0e-8df5-45a17775dde2)
 
 
+
+
 **Principais partes dos códigos**
 
 Pages:
@@ -89,6 +100,7 @@ Pages:
 **Cadastro**
 
 ![codigo cadastro](https://github.com/user-attachments/assets/ff522395-ecff-49be-844b-02e1d53e9a37)
+
 
 Recebe os dados do formulário (nome, quantidade e imagem)
 
