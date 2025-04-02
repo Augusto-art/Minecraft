@@ -173,7 +173,7 @@ Mostra a mensagem "Usuário ou senha inválidos."
 
 
 
-### Inventário
+### Inventário (Página Inicial)
 
 
 #### index
@@ -197,27 +197,27 @@ Mostra dois botões de ação:
 
 
 
-## Prints do inventário
+# Prints do inventário
 
 
-**Página Incial**
+## Página Incial
 
 
 ![Tela inicial inventario](https://github.com/user-attachments/assets/5613df00-71a1-4308-9eca-2dc34fc13a58)
 
 
-**Página de Login**
+## Página de Login
 
 
 ![tela login](https://github.com/user-attachments/assets/73ffe2fb-1294-4afe-a404-7baa0a45ee81)
 
-**Página de Cadastro**
+## Página de Cadastro
 
 
 ![tela cadastro](https://github.com/user-attachments/assets/cb17800a-d4b3-4a6b-9e30-b64562f5190e)
 
 
-**Inventário**
+## Inventário
 
 
 ![Print do inventario](https://github.com/user-attachments/assets/c03ce6ca-d2cb-4c44-b20d-7b6222d331a3)
