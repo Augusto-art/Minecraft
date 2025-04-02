@@ -42,10 +42,10 @@ A funcionalidade de inventário é fundamental para a organização dos recursos
   ## A Implementação
 
   
- ## Front-end
+ ### Front-end
 
  
-## Ferramentas Utilizadas:
+#### Ferramentas Utilizadas:
 
 **HTML:** Estrutura estática da página (slots, botões, formulários).
 
