@@ -68,10 +68,10 @@ O layout foi definido seguindo a estética do inventário clássico do Minecraft
 
 
 
-## Back-end
+### Back-end
 
 
-  ## Ferramentas Utilizadas:
+  #### Ferramentas Utilizadas:
   
   
 **PHP:** Lógica que: Recebe dados do formulário (ex: cadastro.php),Gerencia o arquivo TXT (adiciona/remove itens).
@@ -107,9 +107,9 @@ A estrutura do projeto está organizada conforme abaixo:
 
 ## Principais partes dos códigos
 
-**Pages:**
+### Pages:
 
-**Cadastro**
+#### Cadastro
 
 ![codigo cadastro](https://github.com/user-attachments/assets/ff522395-ecff-49be-844b-02e1d53e9a37)
 
@@ -129,7 +129,7 @@ Redireciona para inventario.php após cadastrar
 
 
 
-**Inventário**
+### Inventário
 
 ![Codigo inventario](https://github.com/user-attachments/assets/bfeee17d-fd4f-4ac1-9224-bffa67e70f4b)
 
