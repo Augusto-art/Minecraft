@@ -113,7 +113,7 @@ A estrutura do projeto está organizada conforme abaixo:
 
 ![codigo cadastro](https://github.com/user-attachments/assets/ff522395-ecff-49be-844b-02e1d53e9a37)
 
-**Resumo do Código**
+## Resumo do Código
 
 
 Recebe os dados do formulário (nome, quantidade e imagem)
@@ -129,12 +129,12 @@ Redireciona para inventario.php após cadastrar
 
 
 
-### Inventário
+## Inventário (Substituição de itens)
 
 ![Codigo inventario](https://github.com/user-attachments/assets/bfeee17d-fd4f-4ac1-9224-bffa67e70f4b)
 
 
-**Resumo do Código**
+## Resumo do Código**
 
 
 Limita o inventário a 36 itens visualizados.
@@ -148,12 +148,12 @@ Não apaga itens do arquivo inventario.txt, apenas controla quais são exibidos.
 
 
 
-**Login**
+## Login
 
 ![Codigo login](https://github.com/user-attachments/assets/342ecde8-fded-4992-820d-57d9f5e8e63b)
 
 
-**Resumo do Código**
+## Resumo do Código
 
 
 Verifica o login do usuário comparando com credenciais fixas ($usuario_padrao e $senha_padrao).
@@ -173,16 +173,16 @@ Mostra a mensagem "Usuário ou senha inválidos."
 
 
 
-**Inventário**
+### Inventário
 
 
-**index**
+#### index
 
 ![codigo pagina inicial](https://github.com/user-attachments/assets/b472a843-c851-41e5-a9bc-dded866d8895)
 
 
 
-**Resumo do Código**
+## Resumo do Código
 
 
 Exibe um cabeçalho com o título "Bem-vindo ao Inventário Minecraft".
