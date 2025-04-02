@@ -82,6 +82,24 @@ A estrutura do projeto está organizada conforme abaixo:
 ![Diretorio](https://github.com/user-attachments/assets/a78a8307-756e-4b0e-8df5-45a17775dde2)
 
 
+**Principais partes dos códigos**
+
+Pages:
+
+**Cadastro**
+
+![codigo cadastro](https://github.com/user-attachments/assets/ff522395-ecff-49be-844b-02e1d53e9a37)
+
+Recebe os dados do formulário (nome, quantidade e imagem)
+
+Move a imagem enviada para a pasta assets/img/
+
+Formata os dados no padrão: nome|quantidade|imagem
+
+Salva no arquivo inventario.txt (adicionando ao final do arquivo)
+
+Redireciona para inventario.php após cadastrar
+
 
 
 
